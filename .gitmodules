@@ -1,0 +1,3 @@
+[submodule "cost_tracker_backend"]
+	path = cost_tracker_backend
+	url = git@github.com:AndreSepulveda/cost_tracker_backend.git
